@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -21,13 +21,26 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+- **ChatGPT**
+    - Getting intelligent natural responses from remotely hosted LLMs (Large Language Models).
+    - Storing chat histories.
+    - Ability to choose models.
+
+- **Draw Things: AI Generation**
+    - Diffusion models are hosted locally on device.
+    - Ability to choose models.
+
+- **Apple/Google/Waze Maps**
+    - Ability to add waypoints.
+    - Ability to navigate to destinations efficiently.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Wen-Chung (Andy) Cheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
